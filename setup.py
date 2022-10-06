@@ -5,7 +5,7 @@ setup(
 	version='1.0',
 	author='Sahil Dhar (@0x401)',
 	install_requires=[
-	"lief == 0.9.0",
+	"lief == 0.12.2",
 	"termcolor"
 	],
 	packages=['mlibinjector'],
